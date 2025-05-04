@@ -1,0 +1,13 @@
+# Ignore compiled Java files
+*.class
+
+# Ignore IntelliJ/IDEA and VS Code settings
+.idea/
+.vscode/
+
+# Ignore output folders
+out/
+bin/
+
+# Ignore other temp/log files
+*.log
