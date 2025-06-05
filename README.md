@@ -5,7 +5,7 @@
 - Afaq Ahmad khan
 
 ## Project Description:
-Legends of Valor is a console-based turn-based RPG where players battle enemies like goblins and dragons using classic mechanics such as attack, defend, and heal. The game demonstrates core OOP concepts like inheritance, polymorphism, abstraction, encapsulation, and interfaces.
+"Legends of Valor is a text-based, turn-based RPG where players face off against foes like goblins and dragons using traditional actions like attacking, defending, and healing. The game showcases fundamental object-oriented programming principles, including inheritance, polymorphism, abstraction, encapsulation, and the use of interfaces."
 
 ## OOP Concepts Used:
 - Inheritance
